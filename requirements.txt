@@ -1,0 +1,9 @@
+streamlit
+tensorflow==2.16.2
+keras==3.3.3
+scikit-learn
+pandas
+numpy
+matplotlib
+plotly
+pickle-mixin
